@@ -10,8 +10,13 @@ This study we try to clustering Iris Dataset used Kmeans
 
 Attribute Information:
 
-sepal length in cm
-sepal width in cm
-petal length in cm
-petal width in cm
+1. sepal length in cm
+
+2. sepal width in cm
+
+3. petal length in cm
+
+4. petal width in cm
+
+
 class: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
